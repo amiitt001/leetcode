@@ -4,12 +4,11 @@ public:
         unordered_map<int, int> freq;
         for(int i : nums){
             freq[i]++;
-        }
-        for(auto it : freq){
-            if(it.second >= 2){
+            if(freq[i]>1){
                 return true;
             }
         }
+        
         return false;
         
     }
