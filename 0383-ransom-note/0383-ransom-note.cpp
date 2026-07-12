@@ -5,7 +5,6 @@ public:
             return false;
         }
         unordered_map<char, int> freq;
-      
         for(char ch : magazine){
             freq[ch]++;
         }
@@ -13,15 +12,11 @@ public:
         for (auto ch : ransomNote) {
             if(freq[ch] <= 0){
                 return false;
-
             }
             freq[ch]--;
         }
         return true;
                 
-}
-
-
-        
+}    
     
 };
