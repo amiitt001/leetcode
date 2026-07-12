@@ -4,18 +4,18 @@ public:
         if (ransomNote.size() > magazine.size()){
             return false;
         }
-        unordered_map<char, int> ransom_freq,magazine_freq;
-        for(char ch : ransomNote){
-            ransom_freq[ch]++;
-        }
+        unordered_map<char, int> freq;
+      
         for(char ch : magazine){
-            magazine_freq[ch]++;
+            freq[ch]++;
         }
 
-        for (auto it : ransom_freq) {
-            if (magazine_freq[it.first] < it.second){
-                 return false;
+        for (auto ch : ransomNote) {
+            if(freq[ch] <= 0){
+                return false;
+
             }
+            freq[ch]--;
         }
         return true;
                 
