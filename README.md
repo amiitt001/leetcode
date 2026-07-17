@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/amiitt001/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/amiitt001/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/amiitt001/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/amiitt001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -43,5 +44,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/amiitt001/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/amiitt001/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
