@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amiitt001/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/amiitt001/leetcode/tree/master/0169-majority-element) |
 | [1929-concatenation-of-array](https://github.com/amiitt001/leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amiitt001/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/amiitt001/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/amiitt001/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/amiitt001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
