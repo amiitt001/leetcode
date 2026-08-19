@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/amiitt001/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/amiitt001/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/amiitt001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/amiitt001/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 ## Queue
 |  |
 | ------- |
