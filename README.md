@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/amiitt001/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/amiitt001/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/amiitt001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/amiitt001/leetcode/tree/master/0409-longest-palindrome) |
 | [0904-fruit-into-baskets](https://github.com/amiitt001/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/amiitt001/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/amiitt001/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/amiitt001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/amiitt001/leetcode/tree/master/0409-longest-palindrome) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/amiitt001/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 ## Queue
 |  |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amiitt001/leetcode/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/amiitt001/leetcode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
