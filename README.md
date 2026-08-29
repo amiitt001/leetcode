@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/amiitt001/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/amiitt001/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/amiitt001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/amiitt001/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/amiitt001/leetcode/tree/master/0409-longest-palindrome) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/amiitt001/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 ## Queue
@@ -68,9 +69,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/amiitt001/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/amiitt001/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/amiitt001/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/amiitt001/leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/amiitt001/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/amiitt001/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
