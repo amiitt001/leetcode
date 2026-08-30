@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/amiitt001/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/amiitt001/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1929-concatenation-of-array](https://github.com/amiitt001/leetcode/tree/master/1929-concatenation-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/amiitt001/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,4 +125,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/amiitt001/leetcode/tree/master/0409-longest-palindrome) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/amiitt001/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
