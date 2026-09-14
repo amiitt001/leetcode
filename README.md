@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/amiitt001/leetcode/tree/master/0009-palindrome-number) |
 | [0415-add-strings](https://github.com/amiitt001/leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/amiitt001/leetcode/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/amiitt001/leetcode/tree/master/0836-rectangle-overlap) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amiitt001/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/amiitt001/leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/amiitt001/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/amiitt001/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
