@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/amiitt001/leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/amiitt001/leetcode/tree/master/0415-add-strings) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/amiitt001/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [1143-longest-common-subsequence](https://github.com/amiitt001/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Queue
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/amiitt001/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/amiitt001/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/amiitt001/leetcode/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/amiitt001/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amiitt001/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Recursion
 |  |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/amiitt001/leetcode/tree/master/0836-rectangle-overlap) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/amiitt001/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
