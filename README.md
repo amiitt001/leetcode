@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/amiitt001/leetcode/tree/master/0014-longest-common-prefix) |
 | [0169-majority-element](https://github.com/amiitt001/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/amiitt001/leetcode/tree/master/0283-move-zeroes) |
+| [0494-target-sum](https://github.com/amiitt001/leetcode/tree/master/0494-target-sum) |
 | [0904-fruit-into-baskets](https://github.com/amiitt001/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/amiitt001/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amiitt001/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/amiitt001/leetcode/tree/master/0022-generate-parentheses) |
 | [0338-counting-bits](https://github.com/amiitt001/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/amiitt001/leetcode/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/amiitt001/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/amiitt001/leetcode/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/amiitt001/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amiitt001/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/amiitt001/leetcode/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/amiitt001/leetcode/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -177,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/amiitt001/leetcode/tree/master/1143-longest-common-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/amiitt001/leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/amiitt001/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
