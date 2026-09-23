@@ -22,9 +22,8 @@ class Solution
     public:
         int longestCommonSubsequence(string text1, string text2)
         {
-            int n = text1.length();
-            int m = text2.length();
-            vector<vector < int>> dp(n, vector<int> (m, -1));
+        
+            vector<vector < int>> dp(1001, vector<int> (1001, -1));
             return lcs(text1, text2, 0, 0, dp);
         }
 };
