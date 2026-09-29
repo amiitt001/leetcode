@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/amiitt001/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/amiitt001/leetcode/tree/master/0014-longest-common-prefix) |
+| [0073-set-matrix-zeroes](https://github.com/amiitt001/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/amiitt001/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/amiitt001/leetcode/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/amiitt001/leetcode/tree/master/0494-target-sum) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amiitt001/leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/amiitt001/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/amiitt001/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/amiitt001/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/amiitt001/leetcode/tree/master/0383-ransom-note) |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/amiitt001/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/amiitt001/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
