@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/amiitt001/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/amiitt001/leetcode/tree/master/0014-longest-common-prefix) |
 | [0073-set-matrix-zeroes](https://github.com/amiitt001/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/amiitt001/leetcode/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/amiitt001/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/amiitt001/leetcode/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/amiitt001/leetcode/tree/master/0494-target-sum) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/amiitt001/leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/amiitt001/leetcode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/amiitt001/leetcode/tree/master/0494-target-sum) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/amiitt001/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bracket Sequences
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/amiitt001/leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/amiitt001/leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/amiitt001/leetcode/tree/master/0338-counting-bits) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/amiitt001/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
