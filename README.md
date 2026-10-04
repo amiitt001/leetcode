@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/amiitt001/leetcode/tree/master/0415-add-strings) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/amiitt001/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1143-longest-common-subsequence](https://github.com/amiitt001/leetcode/tree/master/1143-longest-common-subsequence) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/amiitt001/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Queue
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/amiitt001/leetcode/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/amiitt001/leetcode/tree/master/0494-target-sum) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/amiitt001/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/amiitt001/leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/amiitt001/leetcode/tree/master/0338-counting-bits) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/amiitt001/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
 |  |
 | ------- |
