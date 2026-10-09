@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/amiitt001/leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/amiitt001/leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/amiitt001/leetcode/tree/master/0836-rectangle-overlap) |
+| [1137-n-th-tribonacci-number](https://github.com/amiitt001/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [3525-find-x-value-of-array-ii](https://github.com/amiitt001/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amiitt001/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amiitt001/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/amiitt001/leetcode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/amiitt001/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/amiitt001/leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/amiitt001/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/amiitt001/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amiitt001/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/amiitt001/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/amiitt001/leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/amiitt001/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Simulation
 |  |
 | ------- |
