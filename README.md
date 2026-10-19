@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/amiitt001/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/amiitt001/leetcode/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/amiitt001/leetcode/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/amiitt001/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/amiitt001/leetcode/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/amiitt001/leetcode/tree/master/0494-target-sum) |
 | [0904-fruit-into-baskets](https://github.com/amiitt001/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/amiitt001/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/amiitt001/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amiitt001/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String Matching
